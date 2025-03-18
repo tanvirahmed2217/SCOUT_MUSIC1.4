@@ -1,4 +1,4 @@
-# PrimeMusic-Lavalink
+# ScoutMusic-Lavalink
 LAVALINK BOT MADE BY TANVIR.
 
 Fork the Repositry and add your bot token. Must turn on intents and run the code.
